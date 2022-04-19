@@ -1,6 +1,8 @@
 # WKU in Bowling Green, Kentucky
 Custom shaded relief map for Bowling Green
 
+Link to [GitHub Pages site](https://tastyfreeze.github.io/bowling-green)
+
 ![WKU Campus area](Campus-map.jpg)
 [Link to geospatial PDF](Campus-map.pdf)
 
